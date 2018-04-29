@@ -1,0 +1,22 @@
+$ number of faults active at any time during the run
+1
+
+$ two points (in longitude-latitude) defining the y axis of the
+$ coordinate system used to define the faults
+$ the x-axis is to the right of the y-axis
+169.599 -43.67 170.741 -43.105
+
+$ first fault
+$ number of segments
+4
+$ segment (x,y) coordinates
+100. -20.
+45. -20.
+15. -15.
+0. 0.
+
+$ number of time intervals to define its motion story
+1
+$ time interval (in geological time) and velocity
+$ thrust is negative, normal is positive
+10. 0. -5.

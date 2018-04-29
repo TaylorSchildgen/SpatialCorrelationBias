@@ -1,0 +1,33 @@
+$ number of faults active at any time during the run
+2
+
+$ two points (in longitude-latitude) defining the y axis of the
+$ coordinate system used to define the faults
+$ the x-axis is to the right of the y-axis
+6.213 45.146 7.563 46.413
+
+$ first fault
+$ number of segments
+2
+$ segment (x,y) coordinates
+0.001 -30.
+0. 0.
+
+$ number of time intervals to define its motion history
+1
+$ time interval (in geological time) and velocity
+$ thrust is negative, normal is positive
+20. 0. -0.25
+
+$ second fault
+$ number of segments
+2
+$ segment (x,y) coordinates
+0. 0.
+-0.001 -30.
+
+$ number of time intervals to define its motion history
+1
+$ time interval (in geological time) and velocity
+$ thrust is negative, normal is positive
+20. 0. -1.0
