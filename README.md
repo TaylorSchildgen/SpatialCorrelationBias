@@ -1,5 +1,5 @@
 # SpatialCorrelationBias
-Input files for Glide (linear inversion model) and Pecube (three-dimensional thermal-kinematic model) used to run synthetic tests reported in Schildgen et al., 2018, Nature.
+Input files for Glide (linear inversion model) and Pecube (three-dimensional thermal-kinematic model) used to run synthetic tests reported in Schildgen, T.F., van der Beek, P.A., Sinclair, H.D., Thiede, R.C., 2018. Spatial correlation bias in late-Cenozoic erosion histories derived from thermochronology. Nature 559, 89-93. Public link (non-downloadable): https://rdcu.be/2s7u
 
 The linear inversion model of Fox et al. (2014, ESurf) is available at https://zenodo.org/record/1215685. A description of the method is available here: https://www.earth-surf-dynam.net/2/47/2014/.
 
